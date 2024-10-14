@@ -1,1 +1,1 @@
-# Consortium
+In this project, two cab companies were evaluated for potential investment. The assessment focused on factors such as demographics, customer orders and satisfaction, peak operating periods, return on investment, delivery efficiency, and seamless payment options, among other criteria, to help investors determine the best company for investment.
